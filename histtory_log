@@ -1,0 +1,1183 @@
+    1  irb
+    2  ls
+    3  mkdir musc
+    4  cd musc
+    5  [10:24 AM] Johnson, Stuart\ndefaults write com.apple.Finder AppleShowAllFiles true\n\n
+    6  defaults write com.apple.Finder AppleShowAllFiles true
+    7  killall Finder
+    8  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    9  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   10  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   11  gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+   12  [10:30 AM] Johnson, Stuart\ngpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB\n\n
+   13  gpg --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+   14  gpg--recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+   15  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   16  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/gm/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)\n\n"
+   17  brew doctor
+   18  brew install gnupg gnupg2
+   19  gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+   20  gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+   21  \curl -sSL https://get.rvm.io | bash -s stable
+   22  \curl -sSL https://get.rvm.io | bash -s command curl -sSL https://rvm.io/mpapis.asc | gpg --i
+   23  command curl -sSL https://rvm.io/mpapis.asc | gpg --import -
+   24  \curl -sSL https://get.rvm.io | bash -s command curl -sSL https://rvm.io/mpapis.asc | gpg --i
+   25  \curl -sSL https://get.rvm.io | bash -s stable
+   26  gpg --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+   27  \curl -sSL https://get.rvm.io | bash -s stable
+   28  rvm list
+   29  rvm install ruby-2.5.5
+   30  vi /Users/gm/.rvm/log/1642002590_ruby-2.5.5/make.log
+   31  brew install openssl
+   32  brew doctor
+   33  rvm install ruby-2.5.5
+   34  vi /Users/gm/.rvm/log/1642002590_ruby-2.5.5/make.log
+   35  rvm install ruby-3.1.0
+   36  irb
+   37  ls
+   38  cd musc
+   39  mkdir ruby_warrior
+   40  cd ruby_warrior
+   41  vi .ruby-gemset
+   42  ls
+   43  ls -lah
+   44  defaults write com.apple.finder AppleShowAllFiles -boolean true
+   45  killall Finder
+   46  ls
+   47  cd musc
+   48  ls
+   49  cd ruby_warrior
+   50  ls
+   51  ls -l
+   52  vi .ruby-version
+   53  cd .
+   54  gem install rubywarrior
+   55  ls
+   56  rubywarrior
+   57  ls
+   58  cd ..
+   59  ls
+   60  cd ruby_warrior
+   61  ls
+   62  exec zsh -1
+   63  exit
+   64  ls
+   65  cd musc
+   66  ls
+   67  cd ruby_warrior
+   68  ls
+   69  cd g-beginner
+   70  ls
+   71  rubywarrior
+   72  brew install neovim
+   73  ls
+   74  cd ../..
+   75  ls
+   76  cd ..
+   77  ls
+   78  cd Library/Application\ Support/Sublime\ Text\ 3
+   79  git clone https://github.com/lunixbochs/actualvim
+   80  ls
+   81  mv actualvim Packages
+   82  ls
+   83  cd Packages
+   84  ls
+   85  neovim --version
+   86  vim --version
+   87  ls
+   88  rm actualvim
+   89  rm -r actualvim
+   90  rubywarrior
+   91  cd ~
+   92  ls
+   93  cd musc
+   94  ls
+   95  cd ruby_warrior
+   96  ls
+   97  cd g-beginner
+   98  ls
+   99  rubywarrior
+  100  ls
+  101  cd musc
+  102  ls
+  103  cd ruby_warrior
+  104  ls
+  105  cd g-beginner
+  106  ls
+  107  rubywarrior
+  108  irb
+  109  rubywarrior
+  110  rubywarroir
+  111  rubywarrior
+  112  defaults write com.sublimetext.3 ApplePressAndHoldEnabled -bool false
+  113  cd
+  114  defaults write com.sublimetext.3 ApplePressAndHoldEnabled -bool false
+  115  defaults write com.sublimetext.3 ApplePressAndHoldEnabled -bool true
+  116  defaults write com.sublimetext.3 ApplePressAndHoldEnabled -bool false
+  117  ls
+  118  cd ..
+  119  ls
+  120  cd ..
+  121  ls
+  122  defaults write com.sublimetext.3 ApplePressAndHoldEnabled -bool false
+  123  defaults write com.sublimetext.4 ApplePressAndHoldEnabled -bool false
+  124  cd ~
+  125  ls
+  126  cd musc
+  127  ls
+  128  cd ruby_warrior
+  129  ls
+  130  cd g-beginner
+  131  ls
+  132  rubywarrior
+  133  cd
+  134  ls
+  135  mkdir projects
+  136  cd projects
+  137  vi tusum.rb
+  138  vi ~/.vimrc
+  139  vi tusum.rb
+  140  git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime
+  141  sh ~/.vim_runtime/install_awesome_vimrc.sh
+  142  vi tusum.rb
+  143  ruby tusum.rb
+  144  vi tusum.rb
+  145  ruby tusum.rb
+  146  rubywarrior
+  147  vi 2sum.rb
+  148  ruby 2sum.rb
+  149  vi 2sum.rb
+  150  ruby 2sum.rb
+  151  ri each_with_index
+  152  vi each_with.rb
+  153  ruby each_with.rb
+  154  rubywarrior
+  155  irb
+  156  cd ..
+  157  ls
+  158  cd ..
+  159  ls
+  160  cd ..
+  161  ls
+  162  cd projects
+  163  ls
+  164  mkdir learn_ruby
+  165  mv 2sum.rb each_with.rb tusum.rb ./learn_ruby
+  166  ls
+  167  cd learn_ruby
+  168  vi arr_select.rb
+  169  irb
+  170  ls
+  171  cd learn_ruby
+  172  ls
+  173  vi select_index_cap.rb
+  174  ruby select_index_cap.rb
+  175  vi select_index_cap.rb
+  176  ruby select_index_cap.rb
+  177  vi select_index_cap.rb
+  178  ruby select_index_cap.rb
+  179  vi select_index_cap.rb
+  180  ruby select_index_cap.rb
+  181  vi select_index_cap.rb
+  182  ruby select_index_cap.rb
+  183  ls
+  184  vi two_sum.rb
+  185  ruby two_sum.rb
+  186  vi two_sum.rb
+  187  ruby two_sum.rb
+  188  git add .
+  189  cd ..
+  190  ls
+  191  cd ..
+  192  ls
+  193  cd projects
+  194  ls
+  195  cd learn_ruby
+  196  ls
+  197  git add .
+  198  \n
+  199  vi two_sum.rb
+  200  vi two_sum1.rb
+  201  ruby two_sum1.rb
+  202  vi two_sum1.rb
+  203  ruby two_sum1.rb
+  204  vi two_sum1.rb
+  205  ruby two_sum1.rb
+  206  vi two_sum1.rb
+  207  ruby two_sum1.rb
+  208  ruby two_sum.rb
+  209  vi two_sum1.rb
+  210  irb
+  211  vi hm1.rb
+  212  ruby vi hm1.rb
+  213  ruby hm1.rb 
+  214  vi hm1.rb
+  215  ruby hm1.rb 
+  216  vi hm1.rb
+  217  ruby hm1.rb 
+  218  vi hmm.rb
+  219  ruby hmm.rb
+  220  vi hmm.rb
+  221  ruby hmm.rb
+  222  vi hmm.rb
+  223  ruby hmm.rb
+  224  vi hmm.rb
+  225  ruby hmm.rb
+  226  vi hmm.rb
+  227  ruby hmm.rb
+  228  vi hmm.rb
+  229  ruby hmm.rb
+  230  vi hmm.rb
+  231  ruby hmm.rb
+  232  vi hmm.rb
+  233  ruby hmm.rb
+  234  vi hmm.rb
+  235  ruby hmm.rb
+  236  vi hmm.rb
+  237  ruby hmm.rb
+  238  vi hmm.rb
+  239  ruby hmm.rb
+  240  vi hmm.rb
+  241  ruby -v
+  242  ruby
+  243  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/gm/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)\n\n"
+  244  "\n\n\n"
+  245  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/gm/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)\n\n"
+  246  history
+  247  echo $HISTSIZE
+  248  history 0
+  249  RUBY_CFLAGS="-Wno-error=implicit-function-declaration" arch -x86_64 rbenv install 2.7.2
+  250  RUBY_CFLAGS="-Wno-error=implicit-function-declaration" arch -x86_64 rvm install 2.7.1
+  251  rvm install ruby-2.7.5
+  252  mysql -v]
+  253  mysql -v
+  254  brew doctor
+  255  brew install mysql
+  256  brew services restart mysql
+  257  mysql-v
+  258  mysql -v
+  259  mysql -uroot
+  260  rvm list
+  261  clear
+  262  ls
+  263  cd ..
+  264  ls
+  265  cd ..
+  266  ls
+  267  cd mus
+  268  cd musc
+  269  ls
+  270  mkdir rmid
+  271  cd rmid
+  272  cd ..
+  273  [2:55 PM] Johnson, Stuart\n\n\n
+  274  git clone git@github.com:sparc-request/research-master-id.git
+  275  git clone https://github.com/sparc-request/research-master-id.git
+  276  ls
+  277  cd research-master-id
+  278  bundle install
+  279  [3:04 PM] Johnson, Stuart\nbrew install shared-mime-info\n
+  280  brew install shared-mime-info
+  281  mysql -v
+  282  mysql -uroot
+  283  bundle install
+  284  gem install ffi -v '1.11.1' -- --with-cflags=-Wno-implicit-function-declaration
+  285  bundle installl
+  286  bundel install
+  287  bundle install
+  288  cd /opt
+  289  ls
+  290  cd homebrew
+  291  ls
+  292  cd opt
+  293  ls
+  294  vi openssl
+  295  gem install mysql2 -v '0.4.10' -- --with-opt-dir=/opt/homebrew/opt/openssl@3 --with-mysql-dir=/opt/homebrew/opt/mysql
+  296  bundle install
+  297  ls
+  298  cd db
+  299  ls
+  300  cd migrate
+  301  ls
+  302  cd ../..
+  303  subl
+  304  sublime
+  305  sublime-text
+  306  sublime-text3
+  307  rake db:create
+  308  rake db:create --trace
+  309  clear
+  310  rvm list
+  311  ~clear
+  312  clear
+  313  gem uninstall mysql2
+  314  git pull origin master
+  315  git config --global pull.rebase false
+  316  gem install mysql2 -v '0.5.3' -- --with-mysql-lib=/opt/homebrew/opt/mysql/lib --with-mysql-dir/opt/homebrew/opt/mysql --with-mysql-config=/opt/homebrew/opt/mysql/bin/mysql_config --with-mysql-include=/opt/homebrew/opt/mysql/include --with-ldflags=-L/opt/homebrew/opt/openssl@3/lib --with-cppflags=-I/opt/homebrew/opt/openssl@3/include
+  317  rake db:create
+  318  brew install node
+  319  rake db:create
+  320  mysql -uroot rmid_development < /Users/gm/Downloads/2022-02-10
+  321  irb
+  322  echo "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" > ~/Desktop/git_token.txt
+  323  cat ~/Desktop/git_token.txt
+  324  cd ..
+  325  ls
+  326  cd ../..
+  327  ls
+  328  cd gm
+  329  ls
+  330  cd projects
+  331  ls
+  332  cd learn_ruby
+  333  ls
+  334  vi no_return.rb
+  335  ruby no_return.rb
+  336  vi no_return.rb
+  337  ruby no_return.rb
+  338  vi no_return.rb
+  339  ruby no_return.rb
+  340  vi no_return.rb
+  341  ruby no_return.rb
+  342  git status
+  343  irb
+  344  vi nyt.rb
+  345  ruby nyt.rb
+  346  vi nyt.rb
+  347  ruby nyt.rb
+  348  vi nyt.rb
+  349  ruby nyt.rb
+  350  vi nyt.rb
+  351  ruby nyt.rb
+  352  vi nyt.rb
+  353  ruby nyt.rb
+  354  vi nyt.rb
+  355  ruby nyt.rb
+  356  vi nyt.rb
+  357  ruby nyt.rb
+  358  vi nyt.rb
+  359  ruby nyt.rb
+  360  vi nyt.rb
+  361  vi two_sum1.rb
+  362  vi 2sum1.rb
+  363  git status
+  364  irb
+  365  rails s
+  366  cd musc/rmid
+  367  ls
+  368  rails c
+  369  ls
+  370  cd ..
+  371  ls
+  372  research-master-id
+  373  ls
+  374  rails c
+  375  rails s
+  376  rails restart
+  377  rails s -h
+  378  rails restart
+  379  rails s
+  380  rails c
+  381  rails restart
+  382  User.find_by(email:"test@test.com")
+  383  rails c
+  384  rails s
+  385  brew doctor
+  386  vi ~/.zshrc
+  387  echo 'eval "$(rbenv init -)"' >> ~/.zshrc
+  388  vi ~/.zshrc
+  389  echo '# This is a comment' >> ~/.zshrc
+  390  ls -hartl
+  391  touch 'alias lr="ls -hartl"' >> ~/.zshrc
+  392  source .zshrc
+  393  lr
+  394  ls -hartl
+  395  ls
+  396  lr
+  397  ls -hartl
+  398  ls
+  399  rm alias\ lr=\"ls\ -hartl\"
+  400  ls
+  401  ls -a
+  402  ls
+  403  cd projects
+  404  ls
+  405  cd learn_ruby
+  406  ls
+  407  mkdir rails_tutorial
+  408  cd rails_tutorial
+  409  nvm install 16.13.0
+  410  node -v
+  411  rvm install 2.7.4
+  412  ruby -v
+  413  rails -v
+  414  cd ../..
+  415  ls
+  416  cd ../
+  417  ls
+  418  cd mus
+  419  ls
+  420  cd musc
+  421  ls
+  422  cd ..
+  423  ls
+  424  cd projects
+  425  ls
+  426  cd learn_ruby
+  427  ls
+  428  irb
+  429  history > ../musc/terminal_log.txt
+  430  history >> ~/musc/terminal_history.txt
+  431  vi ~/musc/terminal_history.txt
+  432  apt-gat install memcached
+  433  apt-get install memchached
+  434  sudo apt-get install memcached
+  435  brew install memchached
+  436  ./memcached -vv
+  437  brew update
+  438  brew doctor
+  439  softwareupdate --all --install
+  440  brew install memcached
+  441  gem install lunchy
+  442  mkdir ~/Library/LaunchAgents
+  443  ls /usr/local
+  444  ls -hartl /usr/local
+  445  cp /usr/local/Cellar/memcached/$version/homebrew.mxcl.memcached.plist ~/Library/LaunchAgents/\n
+  446  memcached -v
+  447  memcached -V
+  448  telnet localhost 11211
+  449  telnet -V
+  450  telnet
+  451  echo 'flush_all' | nc localhost 11211
+  452  nc localhost 11211
+  453  nc
+  454  tcp
+  455  nc
+  456  nc -i
+  457  nc -s lansourse
+  458  ./memcached -vv
+  459  nc 192.168.100.100.21
+  460  nc 192.168.100.108.80
+  461  nc -zv google.com
+  462  nc -zv http://www.google.com
+  463  nc -vn 8.8.8.81-1000
+  464  nc -vn google.com 1-1000
+  465  ping google.com
+  466  tr a-z A-Z << END_TEXT\none two three\nuno dos tres\nEND_TEXT
+  467  NUMBERS="one two three"
+  468  tr a-z A-
+  469  tr a-z A-Z <<< "$NUMBERS"
+  470  echo "this" > tempfile
+  471  echo < tempfile
+  472  touch < tempfile
+  473  echo -help
+  474  echo --help
+  475  printf "this"
+  476  printf "this" > tempfile
+  477  echo < tempfile
+  478  printf < tempfile
+  479  MY_CONSTANT="blue"
+  480  MY_CONSTANT > tempfile
+  481  ls
+  482  vi tempfile
+  483  touch "this" > tempfile
+  484  printf < tempfile
+  485  echo < tempfile
+  486  cat tempfile
+  487  vi tempfile
+  488  echo "this" > tempfile
+  489  cat < tempfile
+  490  cat tempfile
+  491  mkdir < tempfile
+  492  rm tempfile
+  493  ls > dirlist 2>&1
+  494  ls
+  495  cat dirlist
+  496  vi dirlist
+  497  rm this
+  498  ls 2>&1 > dirlist
+  499  ls
+  500  vi dirlist
+  501  dirlist 1
+  502  ls 2
+  503  brew install --cask stats
+  504  brew install --cask discord
+  505  vi ../terminal_history.txt
+  506  rails s
+  507  user
+  508  rails c
+  509  rails s
+  510  npm install --global coffeescript
+  511  certutil -verifykeys
+  512  cd
+  513  ls
+  514  rm dirlist
+  515  ls
+  516  cd projects
+  517  ls
+  518  cd learn_ruby
+  519  vi create_research_master.coffee
+  520  code .
+  521  vscode .
+  522  cat << EOF >> ~/.zprofile\n# Add Visual Studio Code (code)\nexport PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"\nEOF
+  523  exec
+  524  code .
+  525  cd musc
+  526  cd ..
+  527  ls
+  528  rm Music
+  529  rm -r Music
+  530  cd musc
+  531  ls
+  532  cd rmid
+  533  ls
+  534  ls -hartl
+  535  cd ../research-master-id
+  536  ls
+  537  cd ..
+  538  ls
+  539  rm rmid
+  540  rm -r rmid
+  541  ls
+  542  cd research-master-id
+  543  code .
+  544  neovim
+  545  defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
+  546  restart
+  547  code restart
+  548  cd
+  549  ls -hartl
+  550  echo "set number" >> .vimrc
+  551  vi .vimrc
+  552  vi .vim_runtime/
+  553  source .vim_runtime
+  554  source .vim_runtime/my_plugins
+  555  vi 
+  556  vi create_research_master.coffee
+  557  vi .vim_runtime/my_plugins
+  558  vi 
+  559  vi create_research_master.coffee
+  560  rails s
+  561  irb
+  562  vi word_freq.rb
+  563  ruby word_freq.rb
+  564  git status
+  565  rails db
+  566  ls
+  567  less -c "take"
+  568  echo -c "this"
+  569  echo "this\newlinethat"
+  570  echo "this"\newline"that"
+  571  echo \newline
+  572  echo "\""
+  573  "\"""\n"
+  574  echo \a
+  575  pushd
+  576  popd
+  577  cd
+  578  pushd
+  579  popd
+  580  pushd
+  581  cd
+  582  cd projects/learn_ruby
+  583  mkdir navigate
+  584  cd navigate
+  585  mkdir dir1
+  586  mkdir dir2
+  587  mkdir dir3
+  588  pushd dir1/
+  589  pushd ../dir2/
+  590  pushd ../dir3/
+  591  dirs -v
+  592  pushd .
+  593  dirs
+  594  dirs -v
+  595  pushd .
+  596  dirs -v
+  597  cd ~4
+  598  dirs -v
+  599  cd ~3
+  600  dirs -v
+  601  touch text.txt
+  602  cp text.txt ~2
+  603  ls ~2
+  604  ls ~0
+  605  ls ~1
+  606  ls ~4
+  607  popcd
+  608  popd
+  609  ls -v
+  610  dirs -v
+  611  pushd
+  612  dirs -v
+  613  popd
+  614  dirs -v
+  615  pushd
+  616  dirs -v
+  617  pushd
+  618  popd
+  619  dirs -v
+  620  pushd
+  621  popd
+  622  pushd
+  623  popd
+  624  cd
+  625  cd projects/learn_ruby
+  626  ls
+  627  rm -r navigate
+  628  ls
+  629  mv *.rb ./scripts
+  630  mkdir scripts
+  631  mv *.rb scripts
+  632  ls
+  633  ls scripts
+  634  rails --help
+  635  cd
+  636  rails --help
+  637  ruby --version
+  638  uname -m
+  639  ruby --version
+  640  rvm --verison
+  641  rvm --version
+  642  ruby -V
+  643  ruby -h
+  644  ruby -v
+  645  pushd
+  646  popd
+  647  cd musc/research-master-id
+  648  ls
+  649  cd db
+  650  ls
+  651  cd migrate
+  652  ls
+  653  irb
+  654  podman images
+  655  podman
+  656  irb
+  657  ls
+  658  cd projects
+  659  ls
+  660  cd learn_ruby
+  661  ls
+  662  cd rails_tutorial
+  663  ls
+  664  ls -harlt
+  665  cd ../../
+  666  cd koans
+  667  cd learn_ruby/koans
+  668  ls
+  669  vi Rakefile
+  670  vi path_to_enlightenment.rb
+  671  ruby path_to_enlightenment.rb
+  672  vi about_asserts.rb
+  673  ruby path_to_enlightenment.rb
+  674  vi about_asserts.rb
+  675  ruby path_to_enlightenment.rb
+  676  ls
+  677  vi README.rdoc
+  678  rake gen
+  679  rake gen --trace
+  680  rake
+  681  vi about_asserts.rb
+  682  rake
+  683  vi about_asserts.rb
+  684  rake
+  685  vi about_asserts.rb
+  686  rake
+  687  vi about_asserts.rb
+  688  rake
+  689  vi about_nil.rb
+  690  vi neo.rb
+  691  code .
+  692  rake
+  693  code about_nil.rb
+  694  rake
+  695  code about_nil.rb
+  696  rake
+  697  code about_nil.rb
+  698  rake
+  699  code . neo.rb
+  700  ls ~/
+  701  cd ..
+  702  ls
+  703  rm rubykoans.zip
+  704  cd
+  705  ls
+  706  cd ..
+  707  ls
+  708  cd ..
+  709  ls
+  710  cd usr
+  711  ls
+  712  cd lib
+  713  ls
+  714  cd ruby
+  715  ls
+  716  cd 2.6.0
+  717  ls
+  718  find . -type d 
+  719  cd usr/bin/ruby
+  720  cd /usr/bin/ruby
+  721  ls
+  722  cd ../..
+  723  ls
+  724  cd ..
+  725  ls
+  726  cd bin
+  727  ls
+  728  cd ruby
+  729  vi ruby
+  730  which ruby
+  731  cd /Users/gm/.rvm/rubies/ruby-3.1.0/bin/ruby
+  732  cd /Users/gm/.rvm/rubies/ruby-3.1.0/bin
+  733  ls
+  734  vi rbs
+  735  cd 
+  736  cd projects/learn_ruby/koans
+  737  rake
+  738  ake
+  739  rake
+  740  ls
+  741  cd musc
+  742  ls
+  743  mkdir bmic-development/sparc-request
+  744  mkdir bmic-development
+  745  cd bmic-development
+  746  mkdir sparc-request
+  747  pushd
+  748  rm bmic-development
+  749  rm -r bmic-development
+  750  mkdir -p bmic-development/sparc-request
+  751  cd bmic-development/sparc-request
+  752  ls
+  753  vi import_hospital_services.rake
+  754  ruby import_hospital_services.rake
+  755  vi import_hospital_services.rake
+  756  ls
+  757  irb
+  758  rbenv --version
+  759  mkdir -p railstutdotorg/env
+  760  cd railstutdotorg/env
+  761  rails _6.1.4.1_ new hello_app
+  762  bundle install rails
+  763  bundle install
+  764  rails --version
+  765  echo "gem: --no-document" >> ~/.gemrc
+  766  gem install rails -v 6.1.4.1
+  767  rails -v
+  768  gem install bundler -v 2.2.17
+  769  corepack enable
+  770  npm -i -g corepack
+  771  sudo apt install nodejs
+  772  npm install --global yarn
+  773  yarn --version
+  774  corepack enable
+  775  npm i -g corepack
+  776  npm uninstall --global yarn
+  777  npm i -g corepack
+  778  corepack enable
+  779  yarn init -2
+  780  yarn set version stable
+  781  yarn set version from sources
+  782  yarn set version from sources --branch 1211
+  783  rails _6.1.4.1_ new hello_app
+  784  ls
+  785  cd hello_app
+  786  ls
+  787  cd ..
+  788  ls
+  789  rm README.md package.json yarn.lock
+  790  ls
+  791  cd hello_app
+  792  ls
+  793  vi Gemfile
+  794  bundle _2.2.17_ install
+  795  vi Gemfile
+  796  bundle _2.2.17_ install
+  797  bundle update
+  798  vi Gemfile
+  799  bundle _2.2.17_ install
+  800  gem install bundler:2.3.3
+  801  bundle update
+  802  bundle _2.2.17_ install
+  803  vi Gemfile.lock
+  804  bundle _2.2.17_ update
+  805  gem install pg -v '1.2.3' --source 'https://rubygems.org'
+  806  brew install postgresql
+  807  gem install pg
+  808  gem install pg -v '1.2.3' --source 'https://rubygems.org'
+  809  bundle _2.2.17_ update
+  810  bundle install
+  811  rails webpacker:install
+  812  yarn install >=1 <3
+  813  yarn set version classic
+  814  rails webpacker:install
+  815  yarn --version
+  816  yarn set version <3
+  817  yarn set version 2.0
+  818  yarn --version
+  819  yarn policies set version 2
+  820  brew unlink yarn
+  821  brew install yarn
+  822  brew install node
+  823  brew unlink yarn
+  824  brew link yarn@1.22.16
+  825  brew istall yarn-1.22.16
+  826  brew install yarn-1.22.16
+  827  brew install yarn "1.22.16"
+  828  brew install yarn@1.22.16
+  829  brew extract --version 1.22.4 yarn homebrew/cask
+  830  brew install yarn@1.22.4
+  831  yarn -v
+  832  brew unlink yarn
+  833  brew install https://raw.githubusercontent.com/dotiful/homebrew-core/2815d3ce3ea17202979f062bbcae78c96ebc0723/Formula/yarn.rb
+  834  brew install https://raw.githubusercontent.com/DanBuild/homebrew-core/2f1c19df0ac2f89a9996367f5ff4e61fe0be6d08/Formula/yarn.rb
+  835  yarn -v
+  836  brew unlink yarn@3.2.0
+  837  brew unlink yarn
+  838  brew extract --version 1.22.4 yarn homebrew/cask
+  839  brew extract --force --version=1.22.4 yarn homebrew/cask
+  840  brew install yarn@1.22.4
+  841  brew install yarn@1.22.17
+  842  yarn -v
+  843  brew install yarn@1.22.17
+  844  brew install yarn@1.22.4
+  845  brew unlink yarn
+  846  brew list --versions yarn
+  847  brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/fba7635ab69384ac980c635483a7af825bc06088/Formula/yarn.rb\n
+  848  brew switch yarn 1.22.17_2
+  849  brew extract --version 3.2.0 yarn homebrew/cask
+  850  bundle update
+  851  bundle install
+  852  rails webpacker:install
+  853  npm install --global yarn
+  854  npm uninstall --global yarn
+  855  yarn --version
+  856  npm remove yarn
+  857  yarn --version
+  858  npm install --global yarn@1.22.17
+  859  cd /opt/homebrew/bin/yarn
+  860  cd ~/opt/homebrew/bin/yarn
+  861  zsh exec -l
+  862  exec zsh -l
+  863  npm install --global yarn@1.22.17
+  864  yarn --version
+  865  brew uninstall yarn
+  866  npm uninstall -g yarn
+  867  brew install yarn@1.22.17
+  868  brew install yarn@1.22.4
+  869  yarn -v
+  870  brew uninstall yarn@3.2.0
+  871  brew uninstall yarn
+  872  npm uninstall yarn
+  873  yarn -v
+  874  brew uninstall yarn
+  875  yarn set version classic
+  876  yarn -v
+  877  rails webpacker:install
+  878  npm update node
+  879  ls
+  880  cd config/environments
+  881  pushd
+  882  vi ./config/environments/development.rb
+  883  rails s
+  884  rvm use ruby-2.7.1
+  885  node -v
+  886  rvm install 2.7.4
+  887  rails webpacker:install
+  888  bundle install
+  889  yarn install --check-files
+  890  yarn install --check-cache
+  891  bundle _2.2.17_ install
+  892  gem install bundler:2.3.3
+  893  bundle _2.2.17_ install
+  894  gem install bundler -v 2.2.17
+  895  bundle _2.2.17_ install
+  896  rails webpacker:install
+  897  rails s
+  898  bundle update
+  899  rails s
+  900  cd ../..
+  901  rm -r ./env/hello_app
+  902  mkdir env
+  903  ls
+  904  cd env
+  905  ls
+  906  ls -hartl
+  907  cd ..
+  908  rm -r env
+  909  ls
+  910  mkdir env
+  911  cd env
+  912  nvm install 16.13.0
+  913  brew update
+  914  brew install nvm
+  915  mkdir ~/.nvm
+  916  vi ~/.zshrc
+  917  softwareupdate --install-rosetta
+  918  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash\n
+  919  export NVM_DIR="$HOME/.nvm"\n[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm\n[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+  920  nvm install 16.13.0
+  921  node -v
+  922  rvm install 2.7.4
+  923  rvm use ruby-2.7.4
+  924  ruby -v
+  925  gem install rails -v 6.1.4.1
+  926  rails -v
+  927  gem install bundler -v 2.2.17
+  928  source <(curl -sL https://cdn.learnenough.com/yarn_install)
+  929  yarn install --check-files
+  930  rails _6.1.5.1_ new hello_app
+  931  rails _6.1.4.1_ new hello_app
+  932  cd hello_app
+  933  vi Gemfile
+  934  bundle _2.2.17_ install
+  935  bundle update
+  936  bundle _2.2.17_ update
+  937  bundle _2.2.17_ install
+  938  vi config/environments/development.rb
+  939  rails s
+  940  rails s -p 3001
+  941  rails -v
+  942  ls app/controllers/*_controller.rb
+  943  subl .
+  944  subl
+  945  subli .
+  946  code .
+  947  vi config/environments/development.rb
+  948  git config --global alias.co checkout
+  949  git init
+  950  git add -A
+  951  git status
+  952  git config --global init.defaultBranch main
+  953  git status
+  954  git commit -m "Initialize repository"
+  955  git log
+  956  ls app/controllers
+  957  rm -rf app/controllers
+  958  ls app/controllers/
+  959  git status
+  960  git co -f
+  961  git status
+  962  git remote add origin https://github.com/yreg/rails_app.git
+  963  git branch -M main
+  964  git push -u origin main
+  965  git remote add origin https://github.com/6reg/rails_app.git
+  966  git set remote origin https://github.com/6reg/rails_app.git
+  967  git remote set-url origin https://github.com/6reg/rails_app.git
+  968  git push -u origin main
+  969  git config --global credential.helper store
+  970  git co -b modify-README
+  971  git branch
+  972  vi README.md
+  973  git status
+  974  git commit -a -m"Improve the README file"
+  975  git user.name
+  976  git config user.name
+  977  git log
+  978  git config --global user.name "greg mathias"
+  979  run-help git
+  980  git config --global user.email "mathiasgreg@gmail.com"
+  981  git co main
+  982  git merge modify-README 
+  983  git branch -d modify-README
+  984  git co branch somebranch
+  985  git co somebranch
+  986  git co -b somebranch
+  987  git co main
+  988  git merge somebranch
+  989  git status
+  990  git push
+  991  git status
+  992  vi Gemfile
+  993  bundle _2.2.17_ config set --local without 'production'
+  994  bundle _2.2.17_ install
+  995  git commit -a -m"Update Gemfile for Heroku"
+  996  heroku -v
+  997  brew tap heroku/brew && brew install heroku
+  998  heroku -v
+  999  heroku login
+ 1000  heroku create
+ 1001  git push heroku main
+ 1002  bundle _2.2.17_ lock --add-platform x86_64-linux
+ 1003  git push heroku main
+ 1004  heroku config:add BUILDPACK_URL=https://github.com/heroku/heroku-buildpack-nodejs\n
+ 1005  git commit -am "empty" --allow-empty
+ 1006  git push herokku main
+ 1007  git push heroku main
+ 1008  heroku apps:info
+ 1009  heroku logs --tail
+ 1010  ls
+ 1011  heroku buildpacks:set heroku/ruby
+ 1012  git push heroku main
+ 1013  heroku app:info
+ 1014  y
+ 1015  heroku apps:info
+ 1016  heroku logs --tail
+ 1017  :e .
+ 1018  vi
+ 1019  vi | :e .
+ 1020  cd projects/learn_ruby/
+ 1021  ls
+ 1022  cd railstutdotorg
+ 1023  ls
+ 1024  cd env
+ 1025  ls
+ 1026  cd hello_app
+ 1027  ls
+ 1028  cd /app/.npm/_logs
+ 1029  cd app/
+ 1030  ls
+ 1031  ls -harlt
+ 1032  cd .npm
+ 1033  heroku logs --tail
+ 1034  heroku buildpacks:remove heroku/node.js
+ 1035  heroku buildpacks:remove heroku/nodejs
+ 1036  heroku buildpacks
+ 1037  git push heroku
+ 1038  vi Gemfile
+ 1039  git push heroku main
+ 1040  ls
+ 1041  cd app
+ 1042  cd .npm
+ 1043  git add .
+ 1044  git commit -A -m"Add ruby version to Gemfile"
+ 1045  git commit -m"Add ruby version to Gemfile"
+ 1046  git add Gemfile
+ 1047  cd ..
+ 1048  ls
+ 1049  git add. 
+ 1050  git add .
+ 1051  git commit -m"Add ruby -v to Gemfile"
+ 1052  git push
+ 1053  git push heroku main
+ 1054  heroku logs --tail
+ 1055  heroku run
+ 1056  rake db:migrate
+ 1057  heroku restart
+ 1058  vi Gemfile
+ 1059  bundle install
+ 1060  git commit -a -m"Take out ruby version from Gemfile"
+ 1061  git push
+ 1062  git push heroku main
+ 1063  heroku apps:info
+ 1064  heroku logs --tail
+ 1065  cd ..
+ 1066  git co -b gemtest
+ 1067  vi Gemfile
+ 1068  pg:info
+ 1069  heroku pg:info
+ 1070  git add .
+ 1071  git commit -m"Remove prod block from Gemfile"
+ 1072  git staus
+ 1073  git status
+ 1074  git push heroku gemtest
+ 1075  git push heroku-dev gemtest:main
+ 1076  git push heroku gemtest:main
+ 1077  bundle install
+ 1078  git push heroku gemtest:main
+ 1079  git co main
+ 1080  git delete branch gemtest
+ 1081  git branch -d gemtest
+ 1082  git branch -D gemtest
+ 1083  git status
+ 1084  git push -f heroku master:master
+ 1085  git push -f heroku main:main
+ 1086  vi Gemfile
+ 1087  heroku help | less
+ 1088  echo "Hello, world"
+ 1089  cd ..
+ 1090  rails _6.1.4.1_ new toy_app
+ 1091  cd toy_app
+ 1092  vi Gemfile
+ 1093  bundle _2.7.17_ config set --local without 'production'
+ 1094  bundle _2.2.17_ config set --local without 'production'
+ 1095  bundle _2.2.17_ install
+ 1096  bundle update
+ 1097  rvm install 2.7.4
+ 1098  rvm use ruby-2.7.4
+ 1099  bundle _2.2.17_ config set --local without 'production'
+ 1100  bundle _2.2.17_ install
+ 1101  bundle update
+ 1102  vi Gemfile
+ 1103  bundle update
+ 1104  vi Gemfile
+ 1105  bundle install
+ 1106  nvm install 16.13.0
+ 1107  bundle update
+ 1108  node -v
+ 1109  ruby -v
+ 1110  echo "gem: --no-document" >> ~/.gemrc
+ 1111  gem install rails -v 6.1.4.1
+ 1112  gem install bundler -v 2.2.17
+ 1113  vi Gemfile
+ 1114  bundle _2.2.17_ install
+ 1115  vi Gemfile
+ 1116  bundle _2.2.17_ install
+ 1117  git init 
+ 1118  git add -A
+ 1119  git commit -m"Initialize repository"
+ 1120  git remote add origin https://github.com/6reg/rails_toy_app.git
+ 1121  git branch -M main
+ 1122  git push -u origin main
+ 1123  ls
+ 1124  vi config/routes.rb
+ 1125  vi app/controllers/application_controller.rb
+ 1126  git commit -am "Add hello"
+ 1127  heroku create
+ 1128  git push && git push heroku main
+ 1129  bundle _2.2.17_ install
+ 1130  git status
+ 1131  git push && git push heroku main
+ 1132  ls 
+ 1133  ls -hartl
+ 1134  cd .bundle
+ 1135  ls
+ 1136  cat config
+ 1137  cd ..
+ 1138  rm -r .bundle
+ 1139  ls -hartl
+ 1140  bundle _2.2.17_ install
+ 1141  git push && git push heroku main
+ 1142  vi config/environments/development.rb
+ 1143  bundle _2.2.17_ install
+ 1144  git commit -am "Add config.hosts.clear to development.rb"
+ 1145  git push && git push heroku main
+ 1146  ls -hartl
+ 1147  vi Gemfile.lock
+ 1148  git commit -am"Add x86_64-linux to gemfile.lock platforms"
+ 1149  git push && git push heroku main
+ 1150  bundle _2.2.17_ install
+ 1151  git push && git push heroku main
+ 1152  bundle _2.2.17_ install
+ 1153  git commit -am"Add x86_64-linux to gemfile.lock platforms after bundle install"
+ 1154  git push && git push heroku main
+ 1155  git status
+ 1156  heroku buildpack
+ 1157  heroku buildpacks
+ 1158  heroku buildpacks:set heroku/ruby
+ 1159  git push && git push heroku main
+ 1160  rvm use ruby-2.4.4
+ 1161  rvm use ruby-2.7.4
+ 1162  bundle install
+ 1163  git push && git push heroku main
+ 1164  bundle update
+ 1165  bundle install
+ 1166  git push && git push heroku main
+ 1167  git status
+ 1168  git commit -am"Bundle update and bundle install to update gemfile"
+ 1169  git push && git push heroku main
+ 1170  cd projects/learn_ruby/railstutdotorg
+ 1171  ls
+ 1172  cd env
+ 1173  ls
+ 1174  cd hello_app
+ 1175  ls
+ 1176  vi Rakefile
+ 1177  vi Gemfile.lock
+ 1178  vi yarn.lock
+ 1179  bundle exec rake -P
+ 1180  node -v
+ 1181  yarn -v
+ 1182  history
+ 1183  vi history >> history
