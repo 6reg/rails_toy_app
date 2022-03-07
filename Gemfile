@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
+ruby '2.7.4'
+
 gem 'rails'
 gem 'puma',       '5.3.1'
 gem 'sass-rails', '6.0.0'
@@ -18,7 +20,7 @@ group :development do
   gem 'web-console',        '4.1.0'
   gem 'rack-mini-profiler', '2.3.1'
   gem 'listen',             '3.4.1'
-  #gem 'spring',             '2.1.1'
+  gem 'spring',             '2.1.1'
 end
 
 group :test do
